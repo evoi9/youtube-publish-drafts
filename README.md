@@ -11,4 +11,4 @@ if you were to do that, (which I'm pretty sure is against YouTube's terms of use
 3. paste the entire content of youtube-publish-drafts.js file
 4. wait
 
-It should work as of 26.12.2020.
+It should work as of 2025.03.06.
